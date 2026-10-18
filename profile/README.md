@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RemPhysicalAI/rem-physical-ai/main/assets/logo-full.png" width="620" alt="REM PhysicalAI">
+  <img src="https://raw.githubusercontent.com/RemPhysicalAI/rem-physical-ai/main/assets/logo-mark.png" width="270" alt="REM PhysicalAI — a little robot pup asleep on the moon">
 </p>
 
 # REM PhysicalAI
